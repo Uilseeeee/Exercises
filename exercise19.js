@@ -1,21 +1,16 @@
-let a=7
+let a=12
 let b=8
-let c=5
-if (a>b){
-    console.log(a)
+let c=7
+if(a>b && a>c){
+    console.log(a);
+    console.log("ih too");
 }
-else{
-   console.log("nothing")
+if (b>a && b>c){
+    console.log(b);
+    console.log("ih too");
+    
 }
-if (b>a>c){
-    console.log(b)
-}
-else{
-
-}
-if (c>b>a){
-    console.log(c)
-}
-else{
-
+if (c>a && c>b){
+    console.log(c);
+    console.log("ih too");
 }
