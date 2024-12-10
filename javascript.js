@@ -39,30 +39,29 @@
 // let studentnames=["micheal","michelle","Jizelle"]
 // let fruits=new 
 // array["apple","pineapple","liir"]
-"ARRAY"
+// "ARRAY"
 
-
-
-
-let balance = [1000, 2000, 2000, 2500, 5000, 4000]
-let i = 0
-while (i < balance.length) {
-    balance[i] *= 1.15
-    i++;
-}
-console.log(balance);
-for (let i = 0; i < x.length; i++) {
-    for (let j = 0; j < x[0].length; j++) {
-        console.log(x[i][j]);
+// let balance = [1000, 2000, 2000, 2500, 5000, 4000]
+// let i = 0
+// while (i < balance.length) {
+//     balance[i] *= 1.15
+//     i++;
+// }
+// console.log(balance);
+// for (let i = 0; i < x.length; i++) {
+//     for (let j = 0; j < x[0].length; j++) {
+//         console.log(x[i][j]);
+//     }
+// }
+// console.log(balance);
+// for (let i = 0; i < x.length; i++) {
+//     for (let j = 0; j < x[0].length; j++) {
+//         console.log(x[i][j]);
+//     } 
+function (primenumber)() {
+    for(let i=2 ;i<=n/2 ;i++){
+        if(n%1==0)return"no"
     }
+    return"yes"
 }
-class name {
-    constructor(parameters) {
-        introduction
-    }
-}
-class length {
-    constructor(parameters) {
-        intoduction
-    }
-}
+console.log(primenumber);
