@@ -58,10 +58,42 @@
 //     for (let j = 0; j < x[0].length; j++) {
 //         console.log(x[i][j]);
 //     } 
-function (primenumber)() {
-    for(let i=2 ;i<=n/2 ;i++){
-        if(n%1==0)return"no"
-    }
-    return"yes"
-}
-console.log(primenumber);
+// function primenumber() {
+//     for(let i=2 ;i<=n/2 ;i++){
+//         if(n%1==0)return"no"
+//     }
+//     return"yes"
+// }
+// console.log(primenumber);
+// Array[1,3,4,5]{
+//     for (let index = 0; index < array.length; index++) {
+//         const element = array[index];
+        
+//     }
+// }
+
+// let fruits = ["Apple","Melon","Mango","Orange"]
+// let size = fruits.length;
+// console.log(fruits);
+// function system(wh) {
+    
+// }
+// let n = 5;
+
+// while (n < 3) {
+//   n++;
+// }
+
+// console.log(n);
+// // Expected output: 3
+// let a=2
+// let b=3
+// function problem(params) {
+// problem=a+b
+// }
+// console.log(params);
+// let l = 5
+// while (n < 3){
+//     n++;
+// }
+// /
